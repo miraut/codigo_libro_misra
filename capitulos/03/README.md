@@ -1,6 +1,6 @@
 # Capítulo 3. El módulo comienza antes de que el compilador vea una función
 
-[← Índice del repositorio](../../README.md) · [Libro gratuito: lectura en línea y PDF versionado](URL_WEB_DEL_LIBRO_PENDIENTE)
+[← Índice del repositorio](../../README.md) · [Libro gratuito: lectura en línea y PDF versionado](https://miraut.github.io/libro_MISRA_CPP_2023/)
 
 ## El problema que estudiamos
 
@@ -46,7 +46,7 @@ Sustituye `ARCHIVO.cpp` por un nombre existente en `ejemplos/`. Esta orden solo 
 
 ## Relación con el libro y colaboración
 
-La guía explica el fundamento de cada decisión, las reglas relevantes por identificador y las limitaciones de las alternativas. **[Consulta gratuitamente el capítulo en la web del libro y descarga su edición PDF](URL_WEB_DEL_LIBRO_PENDIENTE)**. La URL se completará cuando esté disponible la dirección pública definitiva.
+La guía explica el fundamento de cada decisión, las reglas relevantes por identificador y las limitaciones de las alternativas. **[Consulta gratuitamente el capítulo en la web del libro y descarga su edición PDF](https://miraut.github.io/libro_MISRA_CPP_2023/)**. La URL se completará cuando esté disponible la dirección pública definitiva.
 
 Si detectas un error o propones una mejora, acompaña tu observación del archivo afectado, la versión de C++ y las condiciones necesarias para reproducirla. Las contribuciones deben mantener la claridad de los ejemplos y evitar introducir material protegido de la publicación oficial MISRA.
 

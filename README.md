@@ -6,7 +6,7 @@ Este repositorio acompaña el libro **_Guía de supervivencia no oficial para MI
 
 El código se ha escrito para **aprender a razonar sobre situaciones reales de ingeniería**. Hay fragmentos que muestran una solución, otros que exponen un defecto intencionado y pequeños proyectos que solo se comprenden al estudiar varias unidades de traducción o configuraciones de compilación. Su propósito es acompañar la explicación, no sustituirla.
 
-> **📖 Libro gratuito:** [leer la obra en la web y descargar versiones identificadas en PDF](URL_WEB_DEL_LIBRO_PENDIENTE). La dirección canónica se incorporará cuando se publique el sitio. Todas las versiones y formatos del libro son de acceso gratuito.
+> **📖 Libro gratuito:** [leer la obra en la web y descargar versiones identificadas en PDF](https://miraut.github.io/libro_MISRA_CPP_2023/). La dirección canónica se incorporará cuando se publique el sitio. Todas las versiones y formatos del libro son de acceso gratuito.
 
 ## Empieza por aquí
 
